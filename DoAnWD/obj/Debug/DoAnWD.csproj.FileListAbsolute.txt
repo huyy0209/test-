@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\DoAnWD.exe.config
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\DoAnWD.exe
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\DoAnWD.pdb
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.csproj.Up2Date
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.exe
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.pdb
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.frmHocVien.resources
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.frmChucNangGhepLop.resources
+C:\Users\Admin\Desktop\DoAnWD\DoAnWD\DoAnWD\obj\Debug\DoAnWD.frmThongKe.resources
